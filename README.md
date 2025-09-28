@@ -2,7 +2,7 @@
 
 A zero-dependency, command-line tool to log incidents, track phases, export reports, and produce quick GRC-friendly stats.
 
-## ✅ Why this exists
+## Why this exists
 - Shows practical **GRC + Incident Response** skills (NIST SP 800-61).
 - Lightweight portfolio piece: pure Python, no database required.
 - Useful starter for small orgs / labs.
@@ -32,5 +32,5 @@ python3 incident_tracker.py export --output incidents_YYYYMM.csv
 📈 Stats
 python3 incident_tracker.py stats
 
-🌱 Seed sample data (optional)
+Seed sample data (optional)
 python3 incident_tracker.py seed
