@@ -1,4 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Status](https://img.shields.io/badge/Status-Portfolio%20Project-brightgreen.svg)
+![Made with Love](https://img.shields.io/badge/Made%20with%E2%9D%A4-AQ's%20Corner%20LLC-purple.svg)
+
 
 # 🛡️ Mini Incident Response Tracker (NIST 800-61)
 
