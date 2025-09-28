@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "title": "Suspicious MFA prompt flood",
+    "category": "access",
+    "severity": "high",
+    "phase": "detect",
+    "status": "in_progress",
+    "reported_at": "2025-09-20T12:00:00Z",
+    "updated_at": "2025-09-20T12:30:00Z",
+    "owner": "IR Lead",
+    "notes": "User reported multiple push prompts. Possible MFA fatigue attack."
+  },
+  {
+    "id": "e5f6g7h8",
+    "title": "Phishing email reported",
+    "category": "phishing",
+    "severity": "medium",
+    "phase": "respond",
+    "status": "contained",
+    "reported_at": "2025-09-21T09:10:00Z",
+    "updated_at": "2025-09-21T10:00:00Z",
+    "owner": "SOC Tier 1",
+    "notes": "Domain blocked; reset creds; awareness note sent."
+  }
+]
