@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # 🛡️ Mini Incident Response Tracker (NIST 800-61)
 
 A zero-dependency, command-line tool to log incidents, track phases, export reports, and produce quick GRC-friendly stats.
